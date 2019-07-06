@@ -4,7 +4,7 @@ Just drop it in and play. Maximum number of images: 8.
 
 Works with any framework, or plain HTML
 
-Docs for original carousel markup here[https://picturepan2.github.io/spectre/experimentals/carousels.html]
+[Docs for original carousel markup here](https://picturepan2.github.io/spectre/experimentals/carousels.html)
 
 ```
 <body>
